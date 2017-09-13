@@ -1,0 +1,8 @@
+#Result	                              Clinical interpretation 
+IgM positive Only               Acute typhoid fever 
+IgM and IgG positive         Acute typhoid fever (in the middle stage of infection )
+IgG positive                       Implication for the presence of IgG antibodies include previous infection (in which case
+                                          current fever may-not be due to typhoid ) or relapse or re-infection, therefore it is 
+                                          important that interpretation be made together with the clinical symptoms in order to
+                                          diagnose if the patient is currently having typhoid*
+IgM and IgG negative        Probably not typhoid

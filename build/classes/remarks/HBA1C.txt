@@ -1,0 +1,5 @@
+#CLINICAL INTERPRETATION
+#PATIENT                                                                                                                        %HbA1C
+WELL CONTROLLED METABOLISM OR STABILISED DIABETICS                                                           4.5-7.0 
+DIABETICS,INSUFFICIENTLY CONTROLLED OR WITH METOBOLIC IMBALANCE.                                > 8.5
+
